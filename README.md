@@ -18,3 +18,20 @@ Learn HMTL
 	Wine Festival Schedule
 	Form a Story 
 	New York City Blog
+	
+
+Learn Sass
+
+	Refactor Css to Scss
+	Sassy Parallax Banner 
+	Sass Bar Chart
+	Animated Company Logo
+	
+Learn Css 
+	
+	Healthy Recipes 
+	Olivia Woodruff Portfolio
+	The Box Model: Danie's Burgers
+	Broadway 
+	Paint Store
+	
