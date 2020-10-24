@@ -34,4 +34,7 @@ Learn Css
 	The Box Model: Danie's Burgers
 	Broadway 
 	Paint Store
-	
+	Typography
+	Css Grid: PupSpa
+	Css Grid: Talk Board
+	Css Grid: Architecture Blog
